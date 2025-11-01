@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f5ff130-d4b6-491b-b488-76efc1ee11a9" name="Changes" comment="Этап 1. Минимальный прототип с конфигурацией">
+    <list default="true" id="3f5ff130-d4b6-491b-b488-76efc1ee11a9" name="Changes" comment="Этап 2. Сбор данных">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <workItem from="1761651237215" duration="19000" />
       <workItem from="1761928564970" duration="4522000" />
       <workItem from="1761937470017" duration="1505000" />
-      <workItem from="1761985304585" duration="1441000" />
+      <workItem from="1761985304585" duration="2594000" />
     </task>
     <task id="LOCAL-00001" summary="Этап 1. Минимальный прототип с конфигурацией">
       <option name="closed" value="true" />
@@ -88,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761930558140</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Этап 2. Сбор данных">
+      <option name="closed" value="true" />
+      <created>1761986780025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761986780025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,9 +113,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Этап 1. Минимальный прототип с конфигурацией" />
-    <option name="LAST_COMMIT_MESSAGE" value="Этап 1. Минимальный прототип с конфигурацией" />
+    <MESSAGE value="Этап 2. Сбор данных" />
+    <option name="LAST_COMMIT_MESSAGE" value="Этап 2. Сбор данных" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/configuration_management_2$Config.coverage" NAME="Config Coverage Results" MODIFIED="1761986567163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/configuration_management_2$Config.coverage" NAME="Config Coverage Results" MODIFIED="1761986740645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
